@@ -11,6 +11,11 @@
 }
 
 
+.anchor {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
 
 .hero {
     text-align: center;
